@@ -1,0 +1,15 @@
+{
+  "flappy_bird_plist": "flappy_bird.plist",
+  "bird_animation_delay": 0.1,
+  "background_speed": 3,
+  "pipe_width_ratio": 1.5,
+  "pipe_speed": 5,
+  "pipe_interval": 80,
+  "pipe_scale_ratio": 0.4,
+  "hit": "sfx_hit.mp3",
+  "die": "sfx_die.mp3",
+  "point": "sfx_point.mp3",
+  "swooshing": "sfx_swooshing.mp3",
+  "wing": "sfx_wing.mp3",
+  "bird_mass": 4
+}
